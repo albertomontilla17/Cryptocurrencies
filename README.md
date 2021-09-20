@@ -6,7 +6,7 @@ Use unsupervised learning to help investors make better decisions by generating 
 
 Hvplot and plotly express were used for visualizations in the crypto_clustering file.
 
-## Process
+## Development
 
 - Data Preprocessing: Prepare data for dimension reduction with PCA and clustering using K-Means.
 
